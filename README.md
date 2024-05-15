@@ -38,7 +38,8 @@ endmodule
 
 **OUTPUT:**
 
-![324332570-05a0f646-cc08-46b0-b7a6-b22362007a26](https://github.com/Subash190/VLSI-LAB-EXP-2/assets/162429716/e5a489d3-6e3b-48f1-8def-23831be4150a)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-2/assets/165645979/8d42e154-acaa-4718-9bd6-ea17482c27b0)
+
 
 
 
@@ -71,8 +72,8 @@ endmodule
 ```
 
 **OUTPUT:**
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-2/assets/165645979/c9e5a491-478c-4bc8-9f38-a41ba0a3d374)
 
-![324332641-c9512cb8-404a-49fb-a078-6b5cf2dd60f6](https://github.com/Subash190/VLSI-LAB-EXP-2/assets/162429716/3110fbd3-aed2-48f4-a24e-81b75d008d85)
 
 **MULTIPLEXER:**
 
@@ -106,7 +107,8 @@ endmodule
 
 **OUTPUT:**
 
-![324332703-35a65651-bfaa-4acb-87c6-39e8e0ac38b0](https://github.com/Subash190/VLSI-LAB-EXP-2/assets/162429716/3af17118-e444-4ba7-83e8-1e08ec0978ce)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-2/assets/165645979/09d65114-aaf2-49a1-979a-57c245dea3df)
+
 
 
 **DEMULTIPLEXER:**
@@ -134,7 +136,7 @@ endmodule
 ```
 
 **OUTPUT:**
-![324332775-04f0fcd5-d9ae-4684-9556-9fd8b711cfed](https://github.com/Subash190/VLSI-LAB-EXP-2/assets/162429716/0d8323da-9378-4a3a-8b56-cd9b8f5707ab)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-2/assets/165645979/ecaf9583-bbfb-41ed-a54a-735d4483233d)
 
 
 **MAGNITUDE COMPARATOR:**
@@ -156,7 +158,7 @@ endmodule
 ```
 
 **OUTPUT:**
-![322246484-3670a201-865c-49d0-842c-3a9c12143b07](https://github.com/Subash190/VLSI-LAB-EXP-2/assets/162429716/ae04ec2a-1af8-4de2-a844-c5ede8a6805f)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-2/assets/165645979/3b5aa592-af8f-425b-9cbc-a7734001e612)
 
 **RESULT:**<br>
 &emsp;&emsp; Thus the simulation and implementation of combinational logic circuit is done and outputs are verified successfully.
